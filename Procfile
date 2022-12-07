@@ -1,1 +1,1 @@
-worker:Dashboard_Baloch.ipynb
+web: gunicorn Dashboard_Baloch.ipynb
