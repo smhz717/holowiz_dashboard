@@ -1,0 +1,79 @@
+﻿ID,DISTRICT,TEHSIL,RURAL_URBAN,RIVER_BASIN,WATER_SHED,UNION_COUNCIL,Sampled_UC_Status,Male,Female
+1,Chagai,Dalbandin,Rural,Hamun-e-Mushkhel,Nokundi,AMRI,Actual,20,4
+2,Chagai,Dalbandin,Rural,Hamun-e-Mushkhel,Gowanakkoh,CHALGAZI,Actual,20,4
+3,Chagai,Nokkundi,Rural,Hamun-e-Mushkhel,Nokundi,NOKKUNDI,Actual,20,4
+4,Kalat,Kalat,Rural,Hamun-e-Mushkhel,Kharan,CHAPPAR,Actual,20,4
+5,Kalat,Kalat,Rural,Hamun-e-Mushkhel,Kharan,DASHT GOWRAN,Actual,20,4
+6,Kharan,Tomulk,Rural,Hamun-e-Mushkhel,Kharan,JAMAK,Reserved,20,4
+7,Kharan,Tomulk,Rural,Hamun-e-Mushkhel,Kharan,TOH MALIK,Actual,20,4
+8,Kharan,Sar Kharan,Rural,Hamun-e-Mushkhel,Kharan,JODA QALAT,Actual,20,4
+9,Kharan,Kharan,Rural,Hamun-e-Mushkhel,Kharan,SARAWAN,Actual,20,4
+10,Kharan,Kharan,Rural,Hamun-e-Mushkhel,Kharan,RASKHO,Actual,20,4
+11,Shaheed Sikandarabad,Surab,Rural,Hamun-e-Mushkhel,Kharan,SHANA,Actual,20,4
+12,Shaheed Sikandarabad,Surab,Rural,Hamun-e-Mushkhel,Kharan,MARAAP,Reserved,20,4
+13,Shaheed Sikandarabad,Surab,Rural,Hamun-e-Mushkhel,Kharan,HATIARI,Actual,20,4
+14,Washuk,Nag,Rural,Hamun-e-Mushkhel,Kharan,NAAG,Actual,20,4
+15,Washuk,Basima,Rural,Hamun-e-Mushkhel,Kharan,BASIMAH,Actual,20,4
+16,Washuk,Mashkhel,Rural,Hamun-e-Mushkhel,Duzab,SOTGAN,Actual,20,4
+17,Washuk,Mashkhel,Rural,Hamun-e-Mushkhel,Duzab,LAGASHT,Actual,20,4
+18,Washuk,Shaogari,Rural,Hamun-e-Mushkhel,Kharan,GATRANG,Reserved,20,4
+19,Washuk,Washuk,Rural,Hamun-e-Mushkhel,Tasp,PALANTAQ,Actual,20,4
+20,Awaran,Gishekore,Rural,Hingol,Duddar,TIRTEJ,Actual,20,4
+21,Awaran,Awaran,Rural,Hingol,Duddar,AWARAN,Actual,20,4
+22,Awaran,Jhal Jhao,Rural,Hingol,Kukari Bent,CAMP JHAO,Reserved,20,4
+23,Awaran,Mashkai,Rural,Hingol,Hudishi,GUJJAR,Actual,20,4
+24,Panjgur,Gichk,Rural,Hingol,Sorap,GICHK,Actual,20,4
+25,Kech,Kech (turbat),Rural,Hingol,Duddar,BLORE,Actual,20,4
+26,Kech,Kech (turbat),Rural,Hingol,Duddar,DANDAR,Reserved,20,4
+27,Kech,Kech (turbat),Rural,Hingol,Duddar,HOSHAB,Actual,20,4
+28,Khuzdar,Khuzdar,Rural,Hingol,Toba,TOTAK,Actual,20,4
+29,Khuzdar,Khuzdar,Rural,Hingol,Toba,GONI GARISHA,Reserved,20,4
+30,Khuzdar,Khuzdar,Rural,Hingol,Toba,PARKO,Actual,20,4
+31,Khuzdar,Naal,Rural,Hingol,Kukari Bent,OUR NACH,Actual,20,4
+32,Khuzdar,Naal,Rural,Hingol,Toba,NAAL,Actual,20,4
+33,Khuzdar,Naal,Rural,Hingol,Sorap,SAREJ GRESHA,Reserved,20,4
+34,Khuzdar,Naal,Rural,Hingol,Toba,KOCHO,Actual,20,4
+35,Khuzdar,Naal,Rural,Hingol,Toba,DARNELI,Actual,20,4
+36,Khuzdar,Wadh,Rural,Hingol,Hudishi,WAHIR,Actual,20,4
+37,Panjgur,Panjgur,Rural,Hingol,Sorap,SOARDO,Actual,20,4
+38,Shaheed Sikandarabad,Surab,Rural,Hingol,Toba,SHAHDADZAI,Reserved,20,4
+39,Shaheed Sikandarabad,Surab,Rural,Hingol,Toba,LAKHO RIAN,Actual,20,4
+40,Washuk,Nag,Rural,Hingol,Sorap,SHANGAR,Actual,20,4
+41,Duki,Duki,Rural,Nari,Duki,THAL,Actual,20,4
+42,Duki,Duki,Rural,Nari,Duki,WAHVI,Actual,20,4
+43,Duki,Duki,Rural,Nari,Duki,GHARBI LUNI,Actual,20,4
+44,Duki,Duki,Rural,Nari,"Duki, ",LAKHI,Actual,20,4
+45,Duki,Duki,Rural,Nari,Duki,WIALA DUKI,Reserved,20,4
+46,Harnai,Harnai,Rural,Nari,Harnai,NASAK,Actual,20,4
+47,Harnai,Harnai,Rural,Nari,Harnai,SAPAN TANGI,Actual,20,4
+48,Harnai,Harnai,Rural,Nari,Harnai,SADDAR HARNAI,Reserved,20,4
+49,Harnai,Harnai,Rural,Nari,Harnai,BARNAI,Actual,20,4
+50,Killa Saifullah,Killa Saifullah,Rural,Nari,Chinjan,KILLA SAIFULLAH RURAL,Actual,20,4
+51,Kohlu,Kohlu,Rural,Nari,Duki,KURAM KHAN SHEHR,Actual,20,4
+52,Loralai,Loralai,Rural,Nari,Mekhtar,ALIZAI,Actual,20,4
+53,Loralai,Loralai,Rural,Nari,Chinjan,KACHA AMAQZAI,Actual,20,4
+54,Loralai,Mekhtar,Rural,Nari,Mekhtar,MEKHTAR,Actual,20,4
+55,Sibi,Sibi,Rural,Nari,Shahrag,MARGHAZANI,Actual,20,4
+56,Ziarat,Sinjawi,Rural,Nari,Chinjan,POI,Actual,20,4
+57,Ziarat,Ziarat,Rural,Nari,Shahrag,ZIARAT,Actual,20,4
+58,Ziarat,Ziarat,Rural,Nari,Shahrag,KWAS,Actual,20,4
+59,Harnai,Shahrig,Rural,Pishin,Quetta,KHOSAT,Actual,20,4
+60,Kalat,Khaliqabad,Rural,Pishin,Shirinab,ZARD,Actual,20,4
+61,Killa Abdullah,Killa Abdullah,Rural,Pishin,Killa Abdullah,ARAMBAI,Actual,20,4
+62,Mastung,Dasht Spenzend,Rural,Pishin,Quetta,SPEZAND,Reserved,20,4
+63,Mastung,Mastung,Rural,Pishin,Shirinab,KARAIZ NORTH,Actual,20,4
+64,Mastung,Mastung,Rural,Pishin,Shirinab,SHEIKH WASIL,Reserved,20,4
+65,Pishin,Barshore,Rural,Pishin,Dab Khanzai,MANDOZAI,Actual,20,4
+66,Pishin,Huramzai,Rural,Pishin,Killa Abdullah,HARMZIA,Actual,20,4
+67,Pishin,Pishin,Rural,Pishin,Dab Khanzai,MALEZAI,Actual,20,4
+68,Pishin,Pishin,Rural,Pishin,Killa Abdullah,BHATE ZAI,Actual,20,4
+69,Quetta,Quetta City,Rural,Pishin,Quetta,ZARKHOO,Reserved,20,4
+70,Quetta,Quetta Saddar,Rural,Pishin,Quetta,SABZAL,Actual,20,4
+71,Quetta,Quetta City,Rural,Pishin,Quetta,PASHTOON BAGH,Actual,20,4
+72,Quetta,Quetta City,Rural,Pishin,Quetta,SHEIKH MANDAH,Actual,20,4
+73,Quetta,Quetta City,Rural,Pishin,Quetta,KECHI BAIG,Actual,20,4
+74,Quetta,Quetta City,Rural,Pishin,Quetta,SHADENZAI,Actual,20,4
+75,Quetta,Quetta Saddar,Rural,Pishin,Quetta,BALELI,Actual,20,4
+76,Quetta,Quetta Saddar,Rural,Pishin,Quetta,HANNA,Actual,20,4
+77,Quetta,Quetta Saddar,Rural,Pishin,Quetta,KOTOWAL,Reserved,20,4
+78,Ziarat,Ziarat,Rural,Pishin,Quetta,KOLPUR,Actual,20,4
